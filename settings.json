@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bulba.2bd.net",
+    "ip": "bulba_.aternos.me",
     "port": 52065,
     "version": "1.21.11",
     "try-creative": false
@@ -24,14 +24,14 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": false
+      "sneak": true
     },
     "chat-messages": {
       "enabled": true,
       "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "/tp afk_bot ~ 1000 ~"
+        "/tp bulba ~ 1000 ~"
       ]
     },
     "chat-log": false,
@@ -47,11 +47,11 @@
       "speed": 3000
     },
     "look-around": {
-      "enabled": false,
+      "enabled": true,
       "interval": 5000
     },
     "random-jump": {
-      "enabled": false,
+      "enabled": true,
       "interval": 10000
     }
   },
