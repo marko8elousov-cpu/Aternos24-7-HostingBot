@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bulba_.aternos.me",
+    "ip": "bulba.2bd.net",
     "port": 52065,
     "version": "1.21.11",
     "try-creative": false
@@ -37,7 +37,7 @@
     "chat-log": false,
     "auto-reconnect": false,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "max-reconnect-delay": 30000
   },
   "movement": {
     "enabled": true,
